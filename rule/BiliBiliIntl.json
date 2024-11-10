@@ -1,0 +1,15 @@
+{
+  "rules": [
+    {
+      "domain": [
+        "bilibili.tv"
+      ]
+    },
+    {
+      "domain_suffix": [
+        ".bilibili.tv"
+      ]
+    }
+  ],
+  "version": 1
+}

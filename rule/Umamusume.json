@@ -1,0 +1,21 @@
+{
+  "rules": [
+    {
+      "domain": [
+        "api-umamusume.cygames.jp",
+        "cygames.jp",
+        "prd-storage-app-umamusume.akamaized.net",
+        "prd-storage-game-umamusume.akamaized.net",
+        "prd-storage-umamusume.akamaized.net",
+        "umamusume.jp"
+      ]
+    },
+    {
+      "domain_suffix": [
+        ".cygames.jp",
+        ".umamusume.jp"
+      ]
+    }
+  ],
+  "version": 1
+}
